@@ -115,6 +115,7 @@
     "downright": "dr",
     "neardoor": "nd",
     "platformleftb": "plb",
+    "platformlefttop": "plt",
     "platformrightb": "prb",
     "downleft": "dl",
     "leftcorner": "lc",
@@ -141,6 +142,7 @@
     "grovefl": "gfl",
     "home": "h",
     "insidebarn": "ib",
+    "insidebarnz":"ibz",
     "middle": "m",
     "pen": "p",
     "penl": "pl",
@@ -159,13 +161,15 @@
     "sunrise": "su",
     "water": "w",
     "down": "d",
+    "downleft": "dl",
     "feederstatus": "fst",
     "grove2": "g2",
     "grove2l": "g2l",
     "grove2r": "g2r",
     "pedrocorner": "pc",
     "poolw": "pow",
-    "pole": "pole"
+    "pole": "pole",
+    "grove3": "g3"
   },
   "Fox": {
     "belowplatform": "bp",
@@ -353,7 +357,8 @@
     "water": "w",
     "food": "f",
     "rocksandwich": "rs",
-    "closerock": "cr"
+    "closerock": "cr",
+    "toastsleep": "ts"
   },
   "Patchy": {
     "closebranches": "cb",
@@ -473,7 +478,8 @@
     "denl": "dl",
     "denr": "dr",
     "middleleft": "ml",
-    "leftcorner": "lc"
+    "leftcorner": "lc",
+    "left": "l"
   },
   "PastureFeeder": {
     "home": "h",
@@ -497,6 +503,7 @@
     "poolright": "por",
     "roundpen": "rp",
     "sunrise": "s",
+    "sunriser": "sr",
     "gate": "g"
   },
   "Emu": {
@@ -514,13 +521,21 @@
     "pen1right": "plr",
     "pen2left": "p2l",
     "pen2right": "p2r",
-    "pen2water": "p2w"
+    "pen2water": "p2w",
+    "feeder": "f",
+    "feederwide": "fw"
   },
   "Macaws": {
     "home": "h",
     "right": "r",
     "water": "wa",
-    "window": "w"
+    "window": "w",
+    "bowlr": "br",
+    "postmt": "pmt",
+    "postmb": "pmb",
+    "winl": "wl",
+    "bowld": "bd",
+    "winr": "wr"
   },
   "Littles": {
     "left": "l",
@@ -530,6 +545,16 @@
     "down": "d",
     "floorr": "fr",
     "home": "h",
-    "leftb": "lb"
+    "leftb": "lb",
+    "miasleep": "ms",
+    "bowll": "bl",
+    "bowlm": "bm",
+    "bowlr": "br",
+    "winl": "wl",
+    "waterl": "wal",
+    "awning": "a",
+    "inside": "i",
+    "leftback": "lbk",
+    "macawsinside": "mi"
   }
 }

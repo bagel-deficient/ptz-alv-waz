@@ -20,6 +20,7 @@
         "grove",
         "home",
         "insidebarn",
+        "insidebarnz",
         "middle",
         "pen",
         "penl",
@@ -38,6 +39,7 @@
         "sunrise",
         "water",
         "down",
+        "downleft",
         "feederstatus",
         "grove2",
         "pedrocorner",
@@ -48,20 +50,33 @@
         "grove2r",
         "purplebasel",
         "grovel",
-        "grovefl"
+        "grovefl",
+        "grove3"
       ]
     },
     {
       "name": "Littles",
       "presets": [
+        "home",
         "left",
         "right",
         "water",
+        "waterl",
         "window",
+        "winl",
         "down",
         "floorr",
-        "home",
-        "leftb"
+        "leftb",
+        "leftback",
+        "leftcorner",
+        "bowll",
+        "bowlm",
+        "bowlr",
+        "awning",
+        "inside",
+        "macawsinside",
+        "miasleep",
+        "sirensleep"
       ]
     },
     {
@@ -70,7 +85,14 @@
         "home",
         "right",
         "water",
-        "window"
+        "window",
+        "winl",
+        "winr",
+        "bowlr",
+        "bowld",
+        "postmt",
+        "postmb",
+        "perchbr"
       ]
     },
     {
@@ -250,6 +272,7 @@
         "pen2right",
         "pen2water",
         "feeder",
+        "feedwide",
         "pen1shelter",
         "pen2middleish"
       ]
@@ -399,6 +422,7 @@
         "downright",
         "neardoor",
         "platformleftb",
+        "platformlefttop",
         "platformrightb",
         "downleft",
         "leftcorner",
@@ -424,6 +448,7 @@
         "denl",
         "denr",
         "middleleft",
+        "left",
         "leftcorner"
       ]
     },
@@ -533,7 +558,8 @@
         "food",
         "rocksandwich",
         "closerock",
-        "tunnel"
+        "tunnel",
+        "toastsleep"
       ]
     },
     {
@@ -770,7 +796,8 @@
         "pasturepole",
         "poolright",
         "roundpen",
-        "sunrise"
+        "sunrise",
+        "sunriser"
       ]
     },
     {
